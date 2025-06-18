@@ -16,7 +16,7 @@ use Throwable;
 
 class PaymentForm extends Component
 {
-    use LivewireAlert;
+    
 
     public $paymentModal = false;
 

@@ -19,7 +19,7 @@ use Livewire\Attributes\Validate;
 class Index extends Component
 {
     use WithFileUploads;
-    use LivewireAlert;
+    
     use WithModels;
 
     public $settings;

@@ -15,7 +15,7 @@ use Livewire\Component;
 
 class Languages extends Component
 {
-    use LivewireAlert;
+    
 
     public $languages = [];
 

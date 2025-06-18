@@ -16,7 +16,7 @@ use Livewire\Attributes\On;
 #[Layout('layouts.app')]
 class Barcode extends Component
 {
-    use LivewireAlert;
+    
     use WithModels;
 
     public $warehouse_id;

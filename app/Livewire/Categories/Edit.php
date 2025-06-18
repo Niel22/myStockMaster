@@ -15,7 +15,7 @@ use Livewire\WithFileUploads;
 
 class Edit extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     /** @var bool */

@@ -19,7 +19,7 @@ class Index extends Component
 {
     use Datatable;
     use WithFileUploads;
-    use LivewireAlert;
+    
 
     public $purchasereturn;
 

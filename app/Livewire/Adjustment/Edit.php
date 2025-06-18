@@ -17,7 +17,7 @@ use Livewire\Attributes\Validate;
 #[Layout('layouts.app')]
 class Edit extends Component
 {
-    use LivewireAlert;
+    
     use WithModels;
 
     public $adjustment;

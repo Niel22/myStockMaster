@@ -21,7 +21,7 @@ use Symfony\Component\HttpFoundation\StreamedResponse;
 class Index extends Component
 {
     use WithFileUploads;
-    use LivewireAlert;
+    
     use Datatable;
     use WithModels;
 

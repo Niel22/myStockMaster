@@ -14,7 +14,7 @@ use Livewire\Attributes\Validate;
 
 class Messaging extends Component
 {
-    use LivewireAlert;
+    
 
     public $botToken;
 

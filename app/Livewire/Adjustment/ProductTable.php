@@ -9,7 +9,7 @@ use Livewire\Component;
 
 class ProductTable extends Component
 {
-    use LivewireAlert;
+    
 
     public $products;
 

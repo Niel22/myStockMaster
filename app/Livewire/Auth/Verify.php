@@ -11,7 +11,7 @@ use Livewire\Attributes\Layout;
 #[Layout('layouts.app')]
 class Verify extends Component
 {
-    use LivewireAlert;
+    
 
     public function sendVerification(): void
     {

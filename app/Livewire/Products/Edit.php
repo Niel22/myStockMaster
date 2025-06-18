@@ -20,7 +20,7 @@ use Livewire\Attributes\Validate;
 class Edit extends Component
 {
     use WithFileUploads;
-    use LivewireAlert;
+    
 
     public $product;
 

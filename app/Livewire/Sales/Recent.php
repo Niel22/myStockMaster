@@ -15,7 +15,7 @@ use Livewire\WithFileUploads;
 class Recent extends Component
 {
     use WithFileUploads;
-    use LivewireAlert;
+    
     use Datatable;
 
     public $sale;

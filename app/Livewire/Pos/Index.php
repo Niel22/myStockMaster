@@ -29,7 +29,7 @@ use Livewire\Attributes\Validate;
 #[Layout('layouts.pos')]
 class Index extends Component
 {
-    use LivewireAlert;
+    
     use WithModels;
 
     public $customers;

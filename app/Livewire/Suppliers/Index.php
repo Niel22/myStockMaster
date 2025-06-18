@@ -21,7 +21,7 @@ use Livewire\Attributes\Layout;
 class Index extends Component
 {
     use WithFileUploads;
-    use LivewireAlert;
+    
     use Datatable;
 
     /** @var mixed */

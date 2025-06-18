@@ -14,7 +14,7 @@ use Livewire\Component;
 
 class MaintenanceMode extends Component
 {
-    use LivewireAlert;
+    
 
     public $site_maintenance_message;
 

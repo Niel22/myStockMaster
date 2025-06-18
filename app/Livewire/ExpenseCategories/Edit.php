@@ -13,7 +13,7 @@ use Livewire\Component;
 
 class Edit extends Component
 {
-    use LivewireAlert;
+    
 
     public bool $editModal = false;
 

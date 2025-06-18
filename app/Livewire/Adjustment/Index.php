@@ -17,7 +17,7 @@ class Index extends Component
 {
     use Datatable;
     use WithFileUploads;
-    use LivewireAlert;
+    
 
     /** @var mixed */
     public $adjustment;

@@ -18,7 +18,7 @@ use Livewire\Attributes\On;
 class Index extends Component
 {
     use Datatable;
-    use LivewireAlert;
+    
     use WithFileUploads;
     use HasDelete;
 

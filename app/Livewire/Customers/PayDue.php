@@ -14,7 +14,7 @@ use Livewire\Component;
 
 class PayDue extends Component
 {
-    use LivewireAlert;
+    
 
     public $amount;
 

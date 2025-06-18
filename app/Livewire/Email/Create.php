@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Gate;
 
 class Create extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     public $createModal;

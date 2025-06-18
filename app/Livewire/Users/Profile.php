@@ -16,7 +16,7 @@ use Livewire\Component;
 #[Layout('layouts.app')]
 class Profile extends Component
 {
-    use LivewireAlert;
+    
 
     /** @var mixed */
     public $user;

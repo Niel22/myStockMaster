@@ -17,7 +17,7 @@ use Livewire\Attributes\Validate;
 #[Layout('layouts.app')]
 class Index extends Component
 {
-    use LivewireAlert;
+    
     use Datatable;
 
     /** @var mixed */

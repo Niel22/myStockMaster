@@ -11,7 +11,7 @@ use Livewire\Attributes\On;
 
 class Cache extends Component
 {
-    use LivewireAlert;
+    
 
     public function render()
     {

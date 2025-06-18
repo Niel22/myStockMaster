@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Gate;
 class Index extends Component
 {
     use Datatable;
-    use LivewireAlert;
+    
 
     public $listeners = [
         'delete',

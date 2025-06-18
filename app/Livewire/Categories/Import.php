@@ -15,7 +15,7 @@ use Livewire\Attributes\On;
 
 class Import extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     public $file;

@@ -20,7 +20,7 @@ use Throwable;
 
 class Products extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     /** @var array<string> */

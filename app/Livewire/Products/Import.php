@@ -24,7 +24,7 @@ use Throwable;
 
 class Import extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     public $listeners = [

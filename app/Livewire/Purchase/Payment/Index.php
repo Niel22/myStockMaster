@@ -14,7 +14,7 @@ use Livewire\Component;
 
 class Index extends Component
 {
-    use LivewireAlert;
+    
     use Datatable;
 
     public $purchase;

@@ -16,7 +16,7 @@ use Livewire\Component;
 
 class Show extends Component
 {
-    use LivewireAlert;
+    
 
     public $showModal = false;
 

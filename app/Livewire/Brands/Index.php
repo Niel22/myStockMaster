@@ -20,7 +20,7 @@ use Livewire\Attributes\On;
 #[Layout('layouts.app')]
 class Index extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
     use Datatable;
     use HasDelete;

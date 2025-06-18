@@ -12,7 +12,7 @@ use Symfony\Component\HttpFoundation\Response;
 
 class Login extends Component
 {
-    use LivewireAlert;
+    
 
     public $loginModal = false;
 

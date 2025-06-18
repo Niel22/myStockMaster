@@ -11,7 +11,7 @@ use Jantinnerezo\LivewireAlert\LivewireAlert;
 
 class Edit extends Component
 {
-    use LivewireAlert;
+    
 
     public $purchasereturn;
 

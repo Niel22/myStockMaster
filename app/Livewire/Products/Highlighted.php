@@ -13,7 +13,7 @@ use Throwable;
 
 class Highlighted extends Component
 {
-    use LivewireAlert;
+    
 
     public $product;
 

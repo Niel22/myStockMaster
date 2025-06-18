@@ -16,7 +16,7 @@ use Livewire\Attributes\Validate;
 
 class Edit extends Component
 {
-    use LivewireAlert;
+    
     use WithModels;
 
     public $editModal = false;

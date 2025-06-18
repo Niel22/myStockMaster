@@ -13,7 +13,7 @@ use Livewire\Attributes\Validate;
 
 class Edit extends Component
 {
-    use LivewireAlert;
+    
 
     /** @var bool */
     public $editModal = false;

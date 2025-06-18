@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Gate;
 
 class Edit extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     public $openModal = false;

@@ -17,7 +17,7 @@ use Livewire\Attributes\Validate;
 
 class Edit extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     public $editModal = false;

@@ -20,7 +20,7 @@ use Livewire\Attributes\Validate;
 #[Layout('layouts.app')]
 class Create extends Component
 {
-    use LivewireAlert;
+    
     use WithModels;
     public $cart_instance = 'quotation';
 

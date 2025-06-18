@@ -12,7 +12,7 @@ use Livewire\Attributes\Layout;
 #[Layout('layouts.app')]
 class EditTranslation extends Component
 {
-    use LivewireAlert;
+    
     public $language;
 
     public $translations;

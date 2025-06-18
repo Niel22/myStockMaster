@@ -14,7 +14,7 @@ use Livewire\Component;
 // #[Layout('layouts.guest')]
 class Login extends Component
 {
-    use LivewireAlert;
+    
 
     #[Validate('required', message: 'Email is required ')]
     #[Validate('email', message: 'Email must be valid')]

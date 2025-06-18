@@ -12,7 +12,7 @@ use Livewire\Component;
 
 class ProductCart extends Component
 {
-    use LivewireAlert;
+    
 
     /** @var array<string> */
     public $listeners = [

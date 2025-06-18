@@ -14,7 +14,7 @@ use Livewire\Attributes\Validate;
 
 class Create extends Component
 {
-    use LivewireAlert;
+    
 
     public array $languages = [];
 

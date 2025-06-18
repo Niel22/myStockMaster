@@ -11,7 +11,7 @@ use Livewire\Attributes\On;
 
 class ToggleButton extends Component
 {
-    use LivewireAlert;
+    
 
     public Model $model;
 

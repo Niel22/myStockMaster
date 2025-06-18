@@ -14,7 +14,7 @@ use Livewire\WithFileUploads;
 
 class Edit extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     public $editModal = false;

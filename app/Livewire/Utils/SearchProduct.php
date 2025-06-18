@@ -16,7 +16,7 @@ use Livewire\WithPagination;
 class SearchProduct extends Component
 {
     use WithPagination;
-    use LivewireAlert;
+    
 
     public $product;
 

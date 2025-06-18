@@ -13,7 +13,7 @@ use Livewire\Component;
 
 class Create extends Component
 {
-    use LivewireAlert;
+    
 
     public $createModal = false;
 

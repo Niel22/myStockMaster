@@ -14,7 +14,7 @@ use Livewire\Attributes\Layout;
 #[Layout('layouts.app')]
 class Index extends Component
 {
-    use LivewireAlert;
+    
     use Datatable;
 
     /** @var mixed */

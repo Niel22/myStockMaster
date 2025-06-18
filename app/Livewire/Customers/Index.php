@@ -24,7 +24,7 @@ use Livewire\Attributes\Layout;
 class Index extends Component
 {
     use Datatable;
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     public $customer;

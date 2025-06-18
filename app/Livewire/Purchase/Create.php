@@ -27,7 +27,7 @@ use Livewire\Attributes\Validate;
 
 class Create extends Component
 {
-    use LivewireAlert;
+    
     use WithModels;
     public $cart_instance = 'purchase';
 

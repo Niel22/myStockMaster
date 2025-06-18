@@ -15,7 +15,7 @@ use Livewire\WithFileUploads;
 
 class Create extends Component
 {
-    use LivewireAlert;
+    
     use WithFileUploads;
 
     public $createModal = false;

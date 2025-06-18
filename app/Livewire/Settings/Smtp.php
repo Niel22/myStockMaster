@@ -11,7 +11,7 @@ use Livewire\Component;
 
 class Smtp extends Component
 {
-    use LivewireAlert;
+    
 
     public $mail_mailer;
 
